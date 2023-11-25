@@ -1,0 +1,203 @@
+@media screen and (min-width: 375px) {
+  section.content {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin: 20px 0 0 0;
+  }
+  div.container img {
+    border-radius: 5px;
+    height: 200px;
+  }
+  button.btn-search,
+  button.btn-download,
+  button.prev,
+  button.next {
+    font-size: 1em;
+    width: 80px;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    font-size: 1.4em;
+    top: 87.5%;
+    left: 87%;
+  }
+  .card {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 600px) {
+  input.search {
+    width: 150px;
+  }
+  section.content {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  div.container img {
+    border-radius: 5px;
+    height: 200px;
+  }
+  button.btn-search {
+    width: 80px;
+  }
+  button.btn-download,
+  button.prev,
+  button.next {
+    width: 80px;
+    font-size: 0.89em;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    font-size: 1.4em;
+    top: 88%;
+    left: 87%;
+  }
+}
+@media screen and (min-width: 768px) {
+  input.search {
+    width: 250px;
+    font-size: 1.2em;
+  }
+  button.btn-search {
+    width: 100px;
+    font-size: 1.2em;
+  }
+  section.content {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  div.container img {
+    border-radius: 5px;
+    height: 200px;
+  }
+  .card p {
+    font-size: 1.2em;
+  }
+  button.btn-download {
+    font-size: 1.2em;
+    width: 100px;
+  }
+  button.prev,
+  button.next {
+    font-size: 1.2em;
+    width: 100px;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    font-weight: 500;
+    top: 88%;
+    left: 90%;
+    font-size: 2em;
+  }
+  span {
+    font-size: 1.3em;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+}
+@media screen and (min-width: 1024px) {
+  input.search {
+    width: 250px;
+    font-size: 1.3em;
+  }
+  button.btn-search {
+    width: 120px;
+    font-size: 1.3em;
+  }
+  section.content {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  div.container img {
+    border-radius: 5px;
+    height: 250px;
+  }
+  .card {
+    font-size: 1.3em;
+  }
+  button.btn-download,
+  button.prev,
+  button.next {
+    width: 120px;
+    font-size: 1.3em;
+  }
+  div.directions {
+    height: 80px;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    font-size: 2.5em;
+    top: 91.5%;
+    left: 92%;
+  }
+  span {
+    font-size: 1.3em;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+}
+@media screen and (min-width: 1200px) {
+  input.search {
+    width: 350px;
+  }
+  button.btn-search {
+    width: 150px;
+    font-weight: 500;
+    font-size: 1.4em;
+  }
+  button.btn-download,
+  button.prev,
+  button.next {
+    width: 150px;
+    font-size: 1.4em;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    font-size: 2.2em;
+    top: 90.8%;
+    left: 93%;
+  }
+  span {
+    font-size: 2em;
+  }
+  .card {
+    font-size: 1.5em;
+  }
+}
+@media screen and (min-width: 1366px) and (max-width: 1440px) {
+  input.search {
+    width: 500px;
+    font-size: 1.5em;
+    margin: 30px auto;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+  }
+  h1.title {
+    margin-top: 200px;
+  }
+  button.btn-search,
+  button.btn-download,
+  button.prev,
+  button.next {
+    width: 150px;
+    font-size: 1.5em;
+  }
+  section.content {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+  }
+  div.container img {
+    border-radius: 5px;
+    height: 250px;
+  }
+  .card p {
+    font-size: 1.5em;
+  }
+  i.bi.bi-arrow-up-circle-fill {
+    left: 88%;
+    top: 90%;
+    font-size: 2.5em;
+  }
+  .card p {
+    font-size: 1.3em;
+  }
+  span {
+    font-size: 1.5em;
+  }
+}
