@@ -1,7 +1,7 @@
-Les presento mi proyecto de búsqueda y descarga de imágenes, desarrollado con HTML, CSS, TypeScript, React, Bootstrap y la API de Unsplash. 
-La aplicación proporciona a los usuarios la capacidad de explorar y descargar imágenes de alta calidad de manera fácil y eficiente. Gracias 
-al diseño responsive utilizando HTML, CSS y Bootstrap, la interfaz se adapta a diferentes dispositivos para una experiencia de usuario 
-óptima. La funcionalidad de búsqueda dinámica se implementa con TypeScript y JSX, permitiendo a los usuarios buscar imágenes específicas. La 
-integración con la API de Unsplash garantiza la obtención de imágenes actualizadas y diversas. En resumen, este proyecto ofrece una 
-plataforma amigable y robusta para la búsqueda y descarga de imágenes, utilizando tecnologías web modernas y la API de Unsplash para 
-enriquecer la experiencia visual de los usuarios.
+Me complace presentarles mi proyecto de búsqueda y descarga de imágenes, un desarrollo innovador realizado con HTML, CSS, TypeScript, React, Bootstrap y la API de Unsplash. Esta aplicación brinda a los usuarios la capacidad de explorar y descargar imágenes de alta calidad de manera sencilla y eficiente.
+
+La interfaz de usuario, diseñada con HTML y estilizada con CSS y Bootstrap, se adapta de manera fluida a diversos dispositivos, garantizando una experiencia de usuario óptima en cualquier pantalla. La funcionalidad de búsqueda dinámica, impulsada por TypeScript y JSX, permite a los usuarios buscar imágenes específicas de manera intuitiva, mejorando la eficiencia y la personalización de la experiencia.
+
+La integración con la API de Unsplash añade un componente dinámico al proyecto, asegurando que los usuarios accedan a una amplia variedad de imágenes actualizadas y diversas. La plataforma ofrece una interfaz amigable y robusta, facilitando la exploración y descarga de imágenes de alta calidad para satisfacer diversas necesidades creativas.
+
+En resumen, este proyecto representa una solución completa para la búsqueda y descarga de imágenes, aprovechando tecnologías web modernas y la riqueza de la API de Unsplash. Con un diseño responsive, funcionalidades dinámicas y acceso a una amplia variedad de imágenes, esta aplicación proporciona a los usuarios una experiencia visual enriquecedora y eficaz.
